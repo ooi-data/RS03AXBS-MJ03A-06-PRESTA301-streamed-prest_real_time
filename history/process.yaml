@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03AXBS-MJ03A-06-PRESTA301-streamed-prest_real_time
 data_stream: RS03AXBS-MJ03A-06-PRESTA301-streamed-prest_real_time
 end_date: '2021-04-01T01:06:56.485Z'
-last_updated: '2021-04-02T14:23:52.337649Z'
+last_updated: '2021-04-02T14:27:32.476003'
 start_date: '2014-08-21T00:14:35.199Z'
-status: pending
+status: success
