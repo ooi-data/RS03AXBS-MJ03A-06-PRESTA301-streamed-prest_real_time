@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS03AXBS-MJ03A-06-PRESTA301-streamed-prest_real_time
-last_request: '2022-01-21T02:04:03.467944Z'
+last_request: '2022-01-21T18:04:44.366484Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03AXBS-MJ03A-06-PRESTA301-streamed-prest_real_time/main/history/response.json
-status: success
+status: pending
